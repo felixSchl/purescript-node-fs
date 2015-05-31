@@ -28,5 +28,8 @@
     "purescript-strings": "~0.4.5",
     "purescript-globals": "~0.1.6",
     "purescript-integers": "~0.1.0"
+  },
+  "devDependencies": {
+    "purescript-mocha": "~0.0.4"
   }
 }

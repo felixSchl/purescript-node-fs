@@ -5,5 +5,13 @@
     "grunt-contrib-clean": "~0.5.0",
     "grunt-execute": "~0.2.1",
     "grunt-purescript": "~0.6.0"
+  },
+  "devDependencies": {
+    "bluebird": "^2.9.27",
+    "del": "^1.2.0",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.1.0",
+    "gulp-purescript": "^0.4.3",
+    "lodash": "^3.9.3"
   }
 }
