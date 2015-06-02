@@ -30,6 +30,13 @@
     "purescript-integers": "~0.1.0"
   },
   "devDependencies": {
-    "purescript-mocha": "~0.0.4"
+    "purescript-mocha": "~0.0.4",
+    "purescript-simple-assert": "~0.2.1",
+    "purescript-aff": "~0.10.1"
+  },
+  "resolutions": {
+    "purescript-tuples": "~0.3.0",
+    "purescript-monoid": "~0.2.0",
+    "purescript-foldable-traversable": "~0.3.0"
   }
 }
